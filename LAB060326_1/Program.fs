@@ -24,7 +24,7 @@ let rec createList oldList count =
 
 // Вывод элементов списка
 let printList list =
-    printf "Список: %A" list
+    printf "Полученный список: %A" list
     printfn ""
 
 // Функция проверки частного случая и преобразования числа
@@ -41,7 +41,6 @@ let main args =
 
     let list = createList [] number
     let result = List.map(fun i -> transform i) list
-    printfn "Список после заданного расчета: "
     printList result
 
     System.Console.ReadKey() |> ignore
