@@ -38,7 +38,8 @@
 
 
 
-Скриншоты результата работы программы
+<img width="481" height="180" alt="ЛАБ2_ЗАД1" src="https://github.com/user-attachments/assets/71cfe407-45fb-473f-a946-00549e795237" />
+
 
 
 
@@ -83,5 +84,6 @@
 
 
 
-Скриншоты результата работы программы
+<img width="502" height="307" alt="ЛАБ2_ЗАД2" src="https://github.com/user-attachments/assets/15b586f5-54be-47e0-a6fd-8a0ec54f7c82" />
+
 
