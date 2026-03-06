@@ -32,7 +32,7 @@ let transform x =
     if x = 0 then 
         0 
     else 
-        mulNumbers x
+        mulNumbers (abs x)
 
 [<EntryPoint>]
 let main args = 
