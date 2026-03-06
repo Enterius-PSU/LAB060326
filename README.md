@@ -37,8 +37,9 @@
 ### Тестирование
 
 
+<img width="502" height="197" alt="Снимок экрана 2026-03-06 103406" src="https://github.com/user-attachments/assets/32e71926-a5d4-4353-82a8-491213891359" />
 
-<img width="481" height="180" alt="ЛАБ2_ЗАД1" src="https://github.com/user-attachments/assets/71cfe407-45fb-473f-a946-00549e795237" />
+
 
 
 
