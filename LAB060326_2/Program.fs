@@ -11,7 +11,9 @@ let checkIfBin str =
 
 // Функция преобразования бинарной строки в число
 let binToInt (str: string) =
-    str |> Seq.fold (
+    str 
+    |> Seq.toList
+    |> List.fold (
         fun acc ch -> acc * 2 + (int ch - int '0')
     ) 0
 
